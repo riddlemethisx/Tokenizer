@@ -1,0 +1,17 @@
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\bin\Debug\netcoreapp3.1\Tokenizer.exe
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\bin\Debug\netcoreapp3.1\Tokenizer.deps.json
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\bin\Debug\netcoreapp3.1\Tokenizer.runtimeconfig.json
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\bin\Debug\netcoreapp3.1\Tokenizer.runtimeconfig.dev.json
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\bin\Debug\netcoreapp3.1\Tokenizer.dll
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\bin\Debug\netcoreapp3.1\Tokenizer.pdb
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\obj\Debug\netcoreapp3.1\Tokenizer.csproj.AssemblyReference.cache
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\obj\Debug\netcoreapp3.1\Tokenizer.Form1.resources
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\obj\Debug\netcoreapp3.1\Tokenizer.csproj.GenerateResource.cache
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\obj\Debug\netcoreapp3.1\Tokenizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\obj\Debug\netcoreapp3.1\Tokenizer.AssemblyInfoInputs.cache
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\obj\Debug\netcoreapp3.1\Tokenizer.AssemblyInfo.cs
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\obj\Debug\netcoreapp3.1\Tokenizer.csproj.CoreCompileInputs.cache
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\obj\Debug\netcoreapp3.1\Tokenizer.dll
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\obj\Debug\netcoreapp3.1\Tokenizer.pdb
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\obj\Debug\netcoreapp3.1\Tokenizer.genruntimeconfig.cache
+C:\Users\EREN\source\repos\Tokenizer\Tokenizer\obj\Debug\netcoreapp3.1\Tokenizer.Properties.Resources.resources
